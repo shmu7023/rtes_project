@@ -1,0 +1,13 @@
+
+Start location : {u'lat': 40.0187004, u'lng': -105.260505}
+Start address : 1853 26th St, Boulder, CO 80302, USA
+End location : {u'lat': 40.0130558, u'lng': -105.2630821}
+End address : Boulder, CO 80309, USA
+
+
+Get straight till : {u'lat': 40.0174995, u'lng': -105.2604775}
+
+current lat: 40.013651667
+current lon: -105.263528333
+
+Killing gps_poll Thread..
